@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dilim Gizlilik Politikası</title>
+<style>
+  :root { --bg: #ffffff; --text: #1d2521; --muted: #5b6761; --line: #dfe5e1; --accent: #2f7d5b; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #121614; --text: #e8eeea; --muted: #9aa8a0; --line: #2a332e; --accent: #5fc096; }
+  }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 720px; margin: 0 auto; padding: 32px 16px 64px; }
+  h1 { font-size: 1.7rem; margin: 0 0 4px; }
+  h2 { font-size: 1.15rem; margin: 32px 0 8px; padding-top: 16px; border-top: 1px solid var(--line); }
+  p, li { margin: 8px 0; }
+  ul { padding-left: 20px; }
+  .meta { color: var(--muted); font-size: 0.9rem; }
+  .summary { border-left: 3px solid var(--accent); padding: 4px 0 4px 14px; margin: 20px 0; }
+  a { color: var(--accent); }
+  table { width: 100%; border-collapse: collapse; margin: 12px 0; font-size: 0.95rem; }
+  th, td { text-align: left; vertical-align: top; padding: 8px 10px 8px 0; border-bottom: 1px solid var(--line); }
+  th { color: var(--muted); font-weight: 600; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Dilim Gizlilik Politikası</h1>
+  <p class="meta">Son güncelleme: 4 Ekim 2026 · Uygulama sürümü: 1.0.0</p>
+
+  <div class="summary">
+    <p><strong>Kısaca:</strong> Günlüğün, kilon, hedeflerin ve tariflerin yalnızca telefonunda durur. Hesap açmazsın, reklam ve
+    izleme yoktur. Dışarı giden tek şey ürün aramaları ve senin gönderdiğin ürün bilgileridir. Ayrıntılar aşağıda.</p>
+  </div>
+
+  <h2>1. Telefonunda kalan veriler</h2>
+  <p>Aşağıdaki bilgiler yalnızca cihazında saklanır ve bize ya da herhangi bir sunucuya gönderilmez:</p>
+  <ul>
+    <li>Boy, kilo, yaş, cinsiyet, hareket düzeyi ve hedefin</li>
+    <li>Yediklerin (günlük kayıtları), su kayıtların ve kilo geçmişin</li>
+    <li>Kendi eklediğin besinler, tariflerin ve favorilerin</li>
+    <li>Tema ve gizlilik tercihlerin</li>
+  </ul>
+  <p>Verilerini yedeklemek istersen "Yedek al" ile bir metin oluşturursun. Bu metni nereye kaydedeceğine ya da kime göndereceğine
+  sen karar verirsin; uygulama bunu kendiliğinden hiçbir yere göndermez.</p>
+
+  <h2>2. Dışarı giden veriler</h2>
+  <table>
+    <tr><th>Ne zaman</th><th>Ne gider</th><th>Nereye</th></tr>
+    <tr>
+      <td>Bir besin ararsın ya da barkod okutursun</td>
+      <td>Yazdığın arama kelimesi ya da okutulan barkod numarası</td>
+      <td><a href="https://world.openfoodfacts.org">Open Food Facts</a> ve topluluk veritabanımız (Supabase)</td>
+    </tr>
+    <tr>
+      <td>Bir ürünü topluluğa önerirsin</td>
+      <td>Ürünün adı, markası, barkodu ve besin değerleri; cihazına özgü rastgele bir kimlik</td>
+      <td>Topluluk veritabanımız (Supabase)</td>
+    </tr>
+    <tr>
+      <td>Aradığın ürün bulunamaz (Ayarlar'dan kapatılabilir)</td>
+      <td>Yalnızca bulunamayan barkod ya da kısa arama kelimesi</td>
+      <td>Topluluk veritabanımız (Supabase), kimliksiz bir sayaca</td>
+    </tr>
+    <tr>
+      <td>Uygulama çöker ya da beklenmedik bir hata verir</td>
+      <td>Hatanın teknik izi, uygulama sürümü, telefon modeli ve Android sürümü</td>
+      <td><a href="https://sentry.io">Sentry</a> (hata izleme servisi)</td>
+    </tr>
+  </table>
+  <p>Bu isteklerle birlikte, internet bağlantısı gereği IP adresin ve uygulamanın adı ile sürümü karşı sunucuya ulaşır. Open Food Facts
+  isteklerinde ayrıca geliştirici iletişim adresi bulunur (Open Food Facts'in kuralı). Bu sunucular kendi kayıtlarını tutabilir;
+  bilgileri nasıl işlediklerini kendi politikalarından okuyabilirsin.</p>
+  <ul>
+    <li><strong>Cihaz kimliği:</strong> Ürün önerirken gönderilen kimlik telefonunda rastgele üretilir, adınla, numaranla ya da
+    hesabınla bağlantılı değildir. Tek amacı, aynı cihazdan çok sayıda kayıt gelmesini sınırlamaktır.</li>
+    <li><strong>Bulunamayanlar:</strong> Telefon numarası, e-posta ya da uzun rakamlı metinler gibi kişisel olabilecek aramalar
+    gönderilmeden elenir. Bu bildirimi Ayarlar → Gizlilik bölümünden istediğin zaman kapatabilirsin; kapalıyken hiç gönderilmez.</li>
+    <li><strong>Hata raporları:</strong> Rapora günlüğün, kilon, hedeflerin, tariflerin, profilin, arama kelimelerin ya da okuttuğun
+    barkodlar eklenmez; kullanıcı adı ya da hesap bilgisi de yoktur. Uygulamanın nasıl kullanıldığına dair istatistik toplanmaz,
+    yalnızca çökmeler ve hatalar gönderilir.</li>
+    <li><strong>Topluluk önerileri:</strong> Önerdiğin ürün onaylanırsa tüm kullanıcılara görünür. Ürün bilgisine kişisel bir şey
+    yazma.</li>
+  </ul>
+
+  <h2>3. Kamera</h2>
+  <p>Kamera yalnızca barkod okutmak için kullanılır ve izin istenir. Görüntü kaydedilmez, saklanmaz ve gönderilmez; yalnızca
+  okunan barkod numarası ürünü bulmak için kullanılır. Mikrofon, konum, rehber ve dosya erişimi istenmez.</p>
+
+  <h2>4. Bildirimler</h2>
+  <p>İstersen Ayarlar'dan öğün hatırlatmalarını açabilirsin. Hatırlatmalar telefonunda planlanır ve her gün seçtiğin saatte
+  gösterilir; bunun için sunucuya hiçbir bilgi gönderilmez. Bildirim izni yalnızca bir hatırlatma saati seçtiğinde istenir ve
+  istediğin zaman telefon ayarlarından kapatabilirsin.</p>
+
+  <h2>5. Yapmadıklarımız</h2>
+  <ul>
+    <li>Reklam göstermeyiz ve reklam ağlarıyla çalışmayız.</li>
+    <li>Kullanım istatistiği ya da davranış izleme yapmayız. Yalnızca çökme ve hata raporu göndeririz (bölüm 2).</li>
+    <li>Hesap ya da giriş istemeyiz; ad, e-posta ya da telefon numarası toplamayız.</li>
+    <li>Verilerini satmayız ve üçüncü kişilerle paylaşmayız.</li>
+  </ul>
+
+  <h2>6. Verilerini silmek</h2>
+  <ul>
+    <li><strong>Telefonundaki veriler:</strong> Ayarlar'daki veri silme seçeneğini kullan ya da uygulamayı kaldır.</li>
+    <li><strong>Topluluğa önerdiğin ürünler:</strong> Bunlar seninle bağlantılı bir kimlik taşımadığı için hangi kaydın sana ait
+    olduğunu bilemeyiz. Bir ürünün kaldırılmasını istersen, ürünün adını ve varsa barkodunu yazarak aşağıdaki adrese e-posta gönder;
+    ürünü inceleyip kaldırırız.</li>
+    <li><strong>Bulunamayan sayacı:</strong> Kimliksiz olduğu için tek tek silinemez.</li>
+  </ul>
+
+  <h2>7. Çocuklar</h2>
+  <p>Dilim 13 yaşından küçük çocuklara yönelik değildir. 18 yaşından küçüksen uygulama kilo verme hedefini kilo korumaya çeker ve bir
+  doktora ya da diyetisyene danışmanı hatırlatır.</p>
+
+  <h2>8. Sağlık uyarısı</h2>
+  <p>Dilim bir tıbbi tavsiye aracı değildir. Hesaplanan kalori ve makro hedefleri genel formüllere dayanan tahminlerdir. Bir sağlık
+  sorunun varsa, hamileysen ya da beslenme düzenini ciddi biçimde değiştirmeyi düşünüyorsan önce bir doktora ya da diyetisyene danış.</p>
+
+  <h2>9. Veri kaynakları</h2>
+  <p>Paketli ürün bilgileri Open Food Facts topluluk veritabanından (ODbL lisansı), ham gıdaların besin değerleri ABD Tarım Bakanlığı'nın
+  FoodData Central veri tabanından (SR Legacy ve FNDDS, kamu malı) alınmıştır. Değerler referans amaçlıdır; ürün etiketinden ve Türkiye'de
+  yetişen çeşitlerden farklı olabilir.</p>
+
+  <h2>10. Değişiklikler</h2>
+  <p>Bu politikayı güncellersek bu sayfadaki tarihi değiştiririz. Verilerin işlenme biçimi önemli ölçüde değişirse uygulama içinde de
+  haber veririz.</p>
+
+  <h2>11. İletişim</h2>
+  <p>Sorular, ürün kaldırma istekleri ve diğer başvurular için: <a href="mailto:ahmetpiskin04@gmail.com">ahmetpiskin04@gmail.com</a></p>
+  <p class="meta">Geliştirici: Ahmet Piskin</p>
+</main>
+</body>
+</html>
