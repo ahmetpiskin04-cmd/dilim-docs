@@ -1,25 +1,32 @@
-# Dilim: veri kaynakları ve lisanslar
+# Dilim: gizlilik politikası ve açık veri
 
-## Open Food Facts (ODbL 1.0)
+Bu depo, Dilim kalori takip uygulamasının gizlilik politikasını ve uygulamada kullanılan paketli ürün veritabanını içerir.
 
-Paketli ürün kayıtları (`src/data/packagedProducts.ts` ve `src/data/packagedProductsExtra.json`) Open Food Facts topluluk
-veritabanından alınıp temizlenerek hazırlandı: barkod, ad, marka ve 100 g başına besin değerleri; adlar yazım olarak
-düzeltildi, değerler tutarsızsa kayıt çıkarıldı.
+- Gizlilik politikası: `index.html` (GitHub Pages ile yayınlanır)
+- Paketli ürün veritabanı: `veri/dilim-paketli-urunler.json`
 
-- Kaynak: https://world.openfoodfacts.org (Open Food Facts katkıcıları)
-- Veritabanı lisansı: Open Database License (ODbL) 1.0 — https://opendatacommons.org/licenses/odbl/1-0/
-- İçerik lisansı: Database Contents License 1.0
-- Bu kayıtlardan türeyen veritabanı (yukarıdaki iki dosya ve `tools/off_turkey/` betikleri) **ODbL 1.0 ile paylaşılır.**
-  Uygulamanın geri kalanı (kod, arayüz, diğer veriler) bu lisansa tabi değildir.
-- Ürün fotoğrafları kullanılmıyor (onlar CC BY-SA).
-- Uygulama canlı aramada da Open Food Facts API'sini çağırır; kullanım kurallarına uygun User-Agent gönderir.
+## Paketli ürün veritabanı (ODbL 1.0)
 
-## USDA FoodData Central
+`veri/dilim-paketli-urunler.json` dosyasındaki 2641 ürün kaydı [Open Food Facts](https://world.openfoodfacts.org) veritabanından
+(Open Food Facts katkıcıları) alınıp uyarlanmıştır: barkod, ürün adı, marka ve 100 g başına besin değerleri. Ad ve marka yazımları
+düzeltildi, tutarsız ya da eksik besin değerli kayıtlar, alkollü ürünler ve takviyeler çıkarıldı, bazı kayıtlara lif, şeker ve tuz
+değerleri eklendi. Değerler olduğu gibi etiketten gelir, Dilim tarafından hesaplanıp tahmin edilmedi.
 
-`src/data/usdaFoods.json` ve hazır tarif şablonlarının malzeme değerleri ABD Tarım Bakanlığı FoodData Central
-(SR Legacy ve FNDDS) verisinden alındı. Kamu malıdır, atıf zorunlu değildir; kaynak yine de belirtilir.
-Tarif miktarları Dilim'in varsayımıdır, USDA'nın değil.
+Bu uyarlanmış veritabanı, kaynağıyla aynı lisans olan **Open Database License (ODbL) 1.0** ile paylaşılır:
+<https://opendatacommons.org/licenses/odbl/1-0/>. Veritabanının içeriği [Database Contents License 1.0](https://opendatacommons.org/licenses/dbcl/1-0/)
+kapsamındadır. Kaynak ve atıf: Open Food Facts katkıcıları, <https://world.openfoodfacts.org>.
 
-## Kullanılmayan kaynaklar
+Ürün fotoğrafları bu depoda yoktur ve Dilim'de kullanılmaz.
 
-TürKomp verisi lisanslıdır ve kullanılmaz.
+## Kayıt biçimi
+
+Her kayıt: `id`, `barcode`, `name`, `brand` (isteğe bağlı), `caloriesPer100g`, `proteinPer100g`, `carbsPer100g`, `fatPer100g`
+ve varsa `fiberPer100g`, `sugarPer100g`, `saltPer100g` (hepsi gram; alan yoksa değer bilinmiyor demektir, sıfır değildir).
+
+## Diğer kaynaklar
+
+Ham gıdaların besin değerleri ABD Tarım Bakanlığı FoodData Central (SR Legacy ve FNDDS) verisinden alınmıştır, kamu malıdır.
+
+## İletişim
+
+Ahmet Piskin, <ahmetpiskin04@gmail.com>
