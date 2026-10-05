@@ -29,20 +29,28 @@
   <p class="meta">Son güncelleme: 4 Ekim 2026 · Uygulama sürümü: 1.0.0</p>
 
   <div class="summary">
-    <p><strong>Kısaca:</strong> Günlüğün, kilon, hedeflerin ve tariflerin yalnızca telefonunda durur. Hesap açmazsın, reklam ve
-    izleme yoktur. Dışarı giden tek şey ürün aramaları ve senin gönderdiğin ürün bilgileridir. Ayrıntılar aşağıda.</p>
+    <p><strong>Kısaca:</strong> Günlüğün, kilon, hedeflerin ve tariflerin yalnızca telefonunda durur. Hesap açmazsın.
+    Uygulamada Google AdMob reklamları gösterilir; günlüğün, kilon, hedeflerin, adımların ve egzersizlerin reklamlar için kullanılmaz ve
+    reklam sağlayıcısıyla paylaşılmaz. Ayrıntılar aşağıda.</p>
   </div>
 
   <h2>1. Telefonunda kalan veriler</h2>
   <p>Aşağıdaki bilgiler yalnızca cihazında saklanır ve bize ya da herhangi bir sunucuya gönderilmez:</p>
   <ul>
     <li>Boy, kilo, yaş, cinsiyet, hareket düzeyi ve hedefin</li>
-    <li>Yediklerin (günlük kayıtları), su kayıtların ve kilo geçmişin</li>
+    <li>Yediklerin (günlük kayıtları), su kayıtların, kilo geçmişin, elle girdiğin egzersiz ve adım kayıtların</li>
     <li>Kendi eklediğin besinler, tariflerin ve favorilerin</li>
     <li>Tema ve gizlilik tercihlerin</li>
   </ul>
-  <p>Verilerini yedeklemek istersen "Yedek al" ile bir metin oluşturursun. Bu metni nereye kaydedeceğine ya da kime göndereceğine
+  <p>Verilerini yedeklemek istersen uygulama bir yedek dosyası ya da metni oluşturur. Bunu nereye kaydedeceğine ya da kime göndereceğine
   sen karar verirsin; uygulama bunu kendiliğinden hiçbir yere göndermez.</p>
+
+  <h3>Adım sayısı (Health Connect)</h3>
+  <p>İstersen Ayarlar'dan "Adımı otomatik al"ı açabilirsin. Bu durumda Dilim, Android'in Health Connect uygulamasından yalnızca
+  <strong>günlük adım sayını</strong> okur; ancak bunun için Health Connect'te izin vermen gerekir. Okunan adım sayısı yalnızca telefonunda
+  saklanır, bize ya da herhangi bir sunucuya gönderilmez, reklam ya da pazarlama amacıyla kullanılmaz, kimseyle paylaşılmaz ve satılmaz.
+  Özelliği Ayarlar'dan kapatabilir ya da izni Health Connect'ten istediğin zaman geri alabilirsin. Özelliği hiç açmazsan Health Connect'e
+  erişilmez.</p>
 
   <h2>2. Dışarı giden veriler</h2>
   <table>
@@ -66,6 +74,11 @@
       <td>Uygulama çöker ya da beklenmedik bir hata verir</td>
       <td>Hatanın teknik izi, uygulama sürümü, telefon modeli ve Android sürümü</td>
       <td><a href="https://sentry.io">Sentry</a> (hata izleme servisi)</td>
+    </tr>
+    <tr>
+      <td>Günlük ya da İlerleme ekranında reklam gösterilir</td>
+      <td>Reklam sağlayıcısının topladığı cihaz bilgisi: reklam kimliği, IP adresi, cihaz modeli, Android sürümü, uygulama adı ve reklam etkileşimi. Uygulamanın kendi verileri gönderilmez.</td>
+      <td><a href="https://policies.google.com/technologies/ads">Google AdMob</a></td>
     </tr>
   </table>
   <p>Bu isteklerle birlikte, internet bağlantısı gereği IP adresin ve uygulamanın adı ile sürümü karşı sunucuya ulaşır. Open Food Facts
@@ -92,15 +105,30 @@
   gösterilir; bunun için sunucuya hiçbir bilgi gönderilmez. Bildirim izni yalnızca bir hatırlatma saati seçtiğinde istenir ve
   istediğin zaman telefon ayarlarından kapatabilirsin.</p>
 
-  <h2>5. Yapmadıklarımız</h2>
+  <h2>5. Reklamlar</h2>
+  <p>Dilim ücretsizdir ve gelirini reklamlardan sağlar. Günlük ve İlerleme ekranlarının sonunda Google AdMob'un bir banner reklamı gösterilir;
+  besin ekleme, tarif, hedef ve ayar ekranlarında reklam yoktur.</p>
   <ul>
-    <li>Reklam göstermeyiz ve reklam ağlarıyla çalışmayız.</li>
-    <li>Kullanım istatistiği ya da davranış izleme yapmayız. Yalnızca çökme ve hata raporu göndeririz (bölüm 2).</li>
-    <li>Hesap ya da giriş istemeyiz; ad, e-posta ya da telefon numarası toplamayız.</li>
-    <li>Verilerini satmayız ve üçüncü kişilerle paylaşmayız.</li>
+    <li><strong>Ne paylaşılır:</strong> Reklamı göstermek için Google'ın reklam SDK'sı cihazının reklam kimliğini, IP adresini, cihaz ve uygulama
+    bilgisini toplar (bölüm 2). Günlüğün, yediklerin, kilon, hedeflerin, profilin, adımların, egzersizlerin, aramaların ve okuttuğun
+    barkodlar bu SDK'ya verilmez.</li>
+    <li><strong>Sağlık verisi:</strong> Health Connect'ten okunan adım sayısı reklam için kullanılmaz ve reklam sağlayıcısıyla paylaşılmaz.</li>
+    <li><strong>Onay:</strong> Avrupa Ekonomik Alanı ve Birleşik Krallık'taysan reklamlar için Google'ın onay formu gösterilir; onayını Ayarlar →
+    Gizlilik → Reklam tercihleri'nden istediğin zaman değiştirebilirsin. Diğer bölgelerde reklam kimliğini telefonun Ayarlar → Google → Reklamlar
+    bölümünden sıfırlayabilir ya da silebilirsin.</li>
+    <li><strong>Uygun içerik:</strong> Reklam içerik derecelendirmesi PG ile sınırlandırılmıştır; çocuklara yönelik işleme kapalıdır çünkü Dilim 13 yaşından
+    küçüklere yönelik değildir (bölüm 8).</li>
   </ul>
 
-  <h2>6. Verilerini silmek</h2>
+  <h2>6. Yapmadıklarımız</h2>
+  <ul>
+    <li>Reklam amacıyla günlüğünü, sağlık ya da vücut verilerini kullanmayız ve reklam sağlayıcısına vermeyiz.</li>
+    <li>Kullanım istatistiği ya da davranış izleme yapmayız. Yalnızca çökme ve hata raporu göndeririz (bölüm 2); reklam SDK'sının topladıkları ayrıdır (bölüm 5).</li>
+    <li>Hesap ya da giriş istemeyiz; ad, e-posta ya da telefon numarası toplamayız.</li>
+    <li>Verilerini satmayız.</li>
+  </ul>
+
+  <h2>7. Verilerini silmek</h2>
   <ul>
     <li><strong>Telefonundaki veriler:</strong> Ayarlar'daki veri silme seçeneğini kullan ya da uygulamayı kaldır.</li>
     <li><strong>Topluluğa önerdiğin ürünler:</strong> Bunlar seninle bağlantılı bir kimlik taşımadığı için hangi kaydın sana ait
@@ -109,25 +137,25 @@
     <li><strong>Bulunamayan sayacı:</strong> Kimliksiz olduğu için tek tek silinemez.</li>
   </ul>
 
-  <h2>7. Çocuklar</h2>
+  <h2>8. Çocuklar</h2>
   <p>Dilim 13 yaşından küçük çocuklara yönelik değildir. 18 yaşından küçüksen uygulama kilo verme hedefini kilo korumaya çeker ve bir
   doktora ya da diyetisyene danışmanı hatırlatır.</p>
 
-  <h2>8. Sağlık uyarısı</h2>
+  <h2>9. Sağlık uyarısı</h2>
   <p>Dilim bir tıbbi tavsiye aracı değildir. Hesaplanan kalori ve makro hedefleri genel formüllere dayanan tahminlerdir. Bir sağlık
   sorunun varsa, hamileysen ya da beslenme düzenini ciddi biçimde değiştirmeyi düşünüyorsan önce bir doktora ya da diyetisyene danış.</p>
 
-  <h2>9. Veri kaynakları</h2>
+  <h2>10. Veri kaynakları</h2>
   <p>Paketli ürün bilgileri Open Food Facts topluluk veritabanından (ODbL lisansı), ham gıdaların besin değerleri ABD Tarım Bakanlığı'nın
   FoodData Central veri tabanından (SR Legacy ve FNDDS, kamu malı) alınmıştır. Değerler referans amaçlıdır; ürün etiketinden ve Türkiye'de
   yetişen çeşitlerden farklı olabilir.</p>
   <p>Open Food Facts'ten uyarladığımız paketli ürün veritabanı, ODbL 1.0 lisansıyla <a href="https://github.com/ahmetpiskin04-cmd/dilim-docs">https://github.com/ahmetpiskin04-cmd/dilim-docs</a> adresinde herkese açık paylaşılır.</p>
 
-  <h2>10. Değişiklikler</h2>
+  <h2>11. Değişiklikler</h2>
   <p>Bu politikayı güncellersek bu sayfadaki tarihi değiştiririz. Verilerin işlenme biçimi önemli ölçüde değişirse uygulama içinde de
   haber veririz.</p>
 
-  <h2>11. İletişim</h2>
+  <h2>12. İletişim</h2>
   <p>Sorular, ürün kaldırma istekleri ve diğer başvurular için: <a href="mailto:ahmetpiskin04@gmail.com">ahmetpiskin04@gmail.com</a></p>
   <p class="meta">Geliştirici: Ahmet Piskin</p>
 </main>
