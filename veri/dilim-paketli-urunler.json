@@ -237,7 +237,7 @@
  {
   "id": "pkg_1000000000061",
   "barcode": "1000000000061",
-  "name": "6 canelons de carn",
+  "name": "6 Canelons de Carn",
   "brand": "Cal Sendra",
   "caloriesPer100g": 184,
   "proteinPer100g": 10,
@@ -1393,7 +1393,7 @@
  {
   "id": "pkg_5000112670523",
   "barcode": "5000112670523",
-  "name": "fanta portakal 2.5 lt",
+  "name": "Fanta Portakal 2.5 lt",
   "brand": "Fanta",
   "caloriesPer100g": 30,
   "proteinPer100g": 0,
@@ -1406,7 +1406,7 @@
   "id": "pkg_5000112671711",
   "barcode": "5000112671711",
   "name": "Karpuz Aromalı Ice Tea",
-  "brand": "fusetea",
+  "brand": "Fusetea",
   "caloriesPer100g": 14,
   "proteinPer100g": 0,
   "carbsPer100g": 3.2,
@@ -1649,7 +1649,7 @@
  {
   "id": "pkg_5061013944373",
   "barcode": "5061013944373",
-  "name": "monster enerji içeceği",
+  "name": "Monster Enerji İçeceği",
   "brand": "Monster",
   "caloriesPer100g": 37,
   "proteinPer100g": 0,
@@ -1684,7 +1684,7 @@
  {
   "id": "pkg_5061013960922",
   "barcode": "5061013960922",
-  "name": "burn enerji içeceği",
+  "name": "Burn Enerji İçeceği",
   "brand": "Burn",
   "caloriesPer100g": 54,
   "proteinPer100g": 0,
@@ -1922,7 +1922,7 @@
  {
   "id": "pkg_5449000011114",
   "barcode": "5449000011114",
-  "name": "cola mini",
+  "name": "Cola Mini",
   "brand": "Coca-Cola",
   "caloriesPer100g": 42,
   "proteinPer100g": 0,
@@ -2242,7 +2242,7 @@
  {
   "id": "pkg_5701116201712",
   "barcode": "5701116201712",
-  "name": "sonnenblumen",
+  "name": "Sonnenblumen",
   "brand": "Christians Grød",
   "caloriesPer100g": 340,
   "proteinPer100g": 0.5,
@@ -2668,7 +2668,7 @@
  {
   "id": "pkg_7622202050879",
   "barcode": "7622202050879",
-  "name": "7days fındık aromalı",
+  "name": "7days Fındık Aromalı",
   "brand": "7Days",
   "caloriesPer100g": 489,
   "proteinPer100g": 6.7,
@@ -2705,7 +2705,7 @@
  {
   "id": "pkg_7622202207273",
   "barcode": "7622202207273",
-  "name": "sour patch kids",
+  "name": "Sour Patch Kids",
   "brand": "Sour Patch Kids",
   "caloriesPer100g": 363,
   "proteinPer100g": 0,
@@ -3056,7 +3056,7 @@
   "id": "pkg_80177180",
   "barcode": "80177180",
   "name": "Kinder country",
-  "brand": "ferrero",
+  "brand": "Ferrero",
   "caloriesPer100g": 561,
   "proteinPer100g": 8.6,
   "carbsPer100g": 54.9,
@@ -3159,7 +3159,7 @@
  {
   "id": "pkg_80866251",
   "barcode": "80866251",
-  "name": "mentos",
+  "name": "Mentos",
   "brand": "Mentos",
   "caloriesPer100g": 380,
   "proteinPer100g": 0.2,
@@ -3787,7 +3787,7 @@
   "id": "pkg_8680782529269",
   "barcode": "8680782529269",
   "name": "Yogurt and herbs",
-  "brand": "çipso",
+  "brand": "Çipso",
   "caloriesPer100g": 532,
   "proteinPer100g": 5.2,
   "carbsPer100g": 53.2,
@@ -3822,7 +3822,7 @@
   "id": "pkg_8680908020021",
   "barcode": "8680908020021",
   "name": "Noodle",
-  "brand": "indomie",
+  "brand": "İndomie",
   "caloriesPer100g": 97,
   "proteinPer100g": 2.2,
   "carbsPer100g": 11.9,
@@ -3865,7 +3865,7 @@
   "id": "pkg_8680908021004",
   "barcode": "8680908021004",
   "name": "Tavuk Aromalı Hazır Noodle",
-  "brand": "indomie",
+  "brand": "İndomie",
   "caloriesPer100g": 464,
   "proteinPer100g": 9,
   "carbsPer100g": 59,
@@ -3876,8 +3876,8 @@
  {
   "id": "pkg_8680908021011",
   "barcode": "8680908021011",
-  "name": "curry flavor",
-  "brand": "indomie",
+  "name": "Curry Flavor",
+  "brand": "İndomie",
   "caloriesPer100g": 95,
   "proteinPer100g": 1.6,
   "carbsPer100g": 11.4,
@@ -3890,7 +3890,7 @@
   "id": "pkg_8680908021035",
   "barcode": "8680908021035",
   "name": "Vegetables flavour",
-  "brand": "indomie",
+  "brand": "İndomie",
   "caloriesPer100g": 88,
   "proteinPer100g": 1.7,
   "carbsPer100g": 11.1,
@@ -3922,7 +3922,7 @@
   "id": "pkg_8680908033038",
   "barcode": "8680908033038",
   "name": "Indomie",
-  "brand": "indomie",
+  "brand": "İndomie",
   "caloriesPer100g": 492,
   "proteinPer100g": 10,
   "carbsPer100g": 68,
@@ -3934,7 +3934,7 @@
   "id": "pkg_8680908033052",
   "barcode": "8680908033052",
   "name": "Indomie Jumbo Körili Noodle Paket 120 G",
-  "brand": "indomie",
+  "brand": "İndomie",
   "caloriesPer100g": 456,
   "proteinPer100g": 10,
   "carbsPer100g": 63.3,
@@ -4571,7 +4571,7 @@
  {
   "id": "pkg_8681349030754",
   "barcode": "8681349030754",
-  "name": "mango & ananas",
+  "name": "Mango & Ananas",
   "brand": "Avşar",
   "caloriesPer100g": 35,
   "proteinPer100g": 0,
@@ -4607,7 +4607,7 @@
  {
   "id": "pkg_8681349030815",
   "barcode": "8681349030815",
-  "name": "karadut&frenk üzümü soda",
+  "name": "Karadut&frenk Üzümü Soda",
   "brand": "Avşar",
   "caloriesPer100g": 40,
   "proteinPer100g": 0,
@@ -5621,7 +5621,7 @@
  {
   "id": "pkg_8681749146529",
   "barcode": "8681749146529",
-  "name": "süzme çiçek bamı",
+  "name": "Süzme Çiçek Bamı",
   "brand": "Türkiye Tarım Kredi Kooperatifleri",
   "caloriesPer100g": 338,
   "proteinPer100g": 0,
@@ -6148,7 +6148,7 @@
  {
   "id": "pkg_8682214724532",
   "barcode": "8682214724532",
-  "name": "çilekli kefir",
+  "name": "Çilekli Kefir",
   "brand": "Mis",
   "caloriesPer100g": 69,
   "proteinPer100g": 2.7,
@@ -7606,7 +7606,7 @@
  {
   "id": "pkg_8683130095645",
   "barcode": "8683130095645",
-  "name": "magnum utopia ahududu",
+  "name": "Magnum Utopia Ahududu",
   "brand": "Magnum",
   "caloriesPer100g": 322,
   "proteinPer100g": 4.2,
@@ -7685,7 +7685,7 @@
  {
   "id": "pkg_8683130097038",
   "barcode": "8683130097038",
-  "name": "algida cornetto mango ve vanilya",
+  "name": "Algida Cornetto Mango ve Vanilya",
   "brand": "Cornetto",
   "caloriesPer100g": 312,
   "proteinPer100g": 2.7,
@@ -7786,7 +7786,7 @@
  {
   "id": "pkg_8683130113882",
   "barcode": "8683130113882",
-  "name": "plombir waffle cup",
+  "name": "Plombir Waffle Cup",
   "brand": "Algida",
   "caloriesPer100g": 250,
   "proteinPer100g": 4.3,
@@ -8213,7 +8213,7 @@
  {
   "id": "pkg_8683417000270",
   "barcode": "8683417000270",
-  "name": "tadalle",
+  "name": "Tadalle",
   "brand": "Tadelle",
   "caloriesPer100g": 571,
   "proteinPer100g": 9.3,
@@ -8467,7 +8467,7 @@
  {
   "id": "pkg_8683508150563",
   "barcode": "8683508150563",
-  "name": "istanbul çikolata 35 gr",
+  "name": "İstanbul Çikolata 35 gr",
   "brand": "Ülker",
   "caloriesPer100g": 536,
   "proteinPer100g": 7.7,
@@ -8705,7 +8705,7 @@
  {
   "id": "pkg_8683789551158",
   "barcode": "8683789551158",
-  "name": "black bruin",
+  "name": "Black Bruin",
   "caloriesPer100g": 46,
   "proteinPer100g": 0,
   "carbsPer100g": 11.4,
@@ -9148,8 +9148,8 @@
  {
   "id": "pkg_8684198081007",
   "barcode": "8684198081007",
-  "name": "lady fingers",
-  "brand": "pesotti",
+  "name": "Lady Fingers",
+  "brand": "Pesotti",
   "caloriesPer100g": 381,
   "proteinPer100g": 6.8,
   "carbsPer100g": 77.9,
@@ -10205,7 +10205,7 @@
  {
   "id": "pkg_8690120060408",
   "barcode": "8690120060408",
-  "name": "no:1 more",
+  "name": "No:1 More",
   "brand": "Torku",
   "caloriesPer100g": 532,
   "proteinPer100g": 5.6,
@@ -10335,7 +10335,7 @@
   "id": "pkg_8690158120143",
   "barcode": "8690158120143",
   "name": "Lor Peyniri",
-  "brand": "tek süt",
+  "brand": "Tek Süt",
   "caloriesPer100g": 81,
   "proteinPer100g": 15.3,
   "carbsPer100g": 2.7,
@@ -10704,7 +10704,7 @@
  {
   "id": "pkg_8690504008699",
   "barcode": "8690504008699",
-  "name": "ülker dore bisküvi",
+  "name": "Ülker Dore Bisküvi",
   "brand": "Ulker",
   "caloriesPer100g": 535,
   "proteinPer100g": 7.3,
@@ -10772,7 +10772,7 @@
   "id": "pkg_8690504011101",
   "barcode": "8690504011101",
   "name": "Ülker Pötibör Sade Bisküvi 175 G",
-  "brand": "ulker",
+  "brand": "Ulker",
   "caloriesPer100g": 450,
   "proteinPer100g": 7,
   "carbsPer100g": 73,
@@ -10818,7 +10818,7 @@
   "id": "pkg_8690504011422",
   "barcode": "8690504011422",
   "name": "Ülker Hanımeller Kurabiye 150 G",
-  "brand": "ulker",
+  "brand": "Ulker",
   "caloriesPer100g": 149,
   "proteinPer100g": 6.6,
   "carbsPer100g": 20,
@@ -11340,7 +11340,7 @@
  {
   "id": "pkg_8690504039884",
   "barcode": "8690504039884",
-  "name": "metro klasik",
+  "name": "Metro Klasik",
   "brand": "Ülker",
   "caloriesPer100g": 445,
   "proteinPer100g": 3.7,
@@ -11523,7 +11523,7 @@
  {
   "id": "pkg_8690504065647",
   "barcode": "8690504065647",
-  "name": "mega cik",
+  "name": "Mega Cik",
   "brand": "Ülker",
   "caloriesPer100g": 156,
   "proteinPer100g": 1.9,
@@ -11594,7 +11594,7 @@
  {
   "id": "pkg_8690504067009",
   "barcode": "8690504067009",
-  "name": "kekstra portakal",
+  "name": "Kekstra Portakal",
   "brand": "Ülker",
   "caloriesPer100g": 442,
   "proteinPer100g": 4,
@@ -11676,7 +11676,7 @@
  {
   "id": "pkg_8690504069003",
   "barcode": "8690504069003",
-  "name": "kat kat fındıklı",
+  "name": "Kat Kat Fındıklı",
   "brand": "Ulker",
   "caloriesPer100g": 545,
   "proteinPer100g": 5.9,
@@ -11689,7 +11689,7 @@
  {
   "id": "pkg_8690504069409",
   "barcode": "8690504069409",
-  "name": "kat kat cilek",
+  "name": "Kat Kat Cilek",
   "brand": "Ülker",
   "caloriesPer100g": 452,
   "proteinPer100g": 2.9,
@@ -11802,7 +11802,7 @@
  {
   "id": "pkg_8690504077558",
   "barcode": "8690504077558",
-  "name": "cizi peynir biftek",
+  "name": "Cizi Peynir Biftek",
   "brand": "Ülker",
   "caloriesPer100g": 472,
   "proteinPer100g": 7.7,
@@ -11893,7 +11893,7 @@
  {
   "id": "pkg_8690504079729",
   "barcode": "8690504079729",
-  "name": "poti hint",
+  "name": "Poti Hint",
   "caloriesPer100g": 148,
   "proteinPer100g": 1.8,
   "carbsPer100g": 9.8,
@@ -12046,7 +12046,7 @@
  {
   "id": "pkg_8690504085812",
   "barcode": "8690504085812",
-  "name": "9 kat kat şekersiz",
+  "name": "9 Kat Kat Şekersiz",
   "brand": "Şekersiz",
   "caloriesPer100g": 450,
   "proteinPer100g": 3.2,
@@ -12100,7 +12100,7 @@
  {
   "id": "pkg_8690504088011",
   "barcode": "8690504088011",
-  "name": "mini kek",
+  "name": "Mini Kek",
   "brand": "8kek",
   "caloriesPer100g": 428,
   "proteinPer100g": 4.4,
@@ -12146,7 +12146,7 @@
  {
   "id": "pkg_8690504096085",
   "barcode": "8690504096085",
-  "name": "café crown",
+  "name": "Café Crown",
   "brand": "Ülker",
   "caloriesPer100g": 39,
   "proteinPer100g": 0.1,
@@ -12367,7 +12367,7 @@
   "id": "pkg_8690504114802",
   "barcode": "8690504114802",
   "name": "Ülker Biskrem Cookie Çikolatalı Kurabiye 80 G",
-  "brand": "ulker",
+  "brand": "Ulker",
   "caloriesPer100g": 512,
   "proteinPer100g": 6,
   "carbsPer100g": 60,
@@ -12462,19 +12462,6 @@
   "saltPer100g": 0.83
  },
  {
-  "id": "pkg_8690504117827",
-  "barcode": "8690504117827",
-  "name": "Ülker",
-  "brand": "Ülker",
-  "caloriesPer100g": 433,
-  "proteinPer100g": 12,
-  "carbsPer100g": 63.3,
-  "fatPer100g": 14,
-  "fiberPer100g": 4,
-  "sugarPer100g": 25.3,
-  "saltPer100g": 3.28
- },
- {
   "id": "pkg_8690504117858",
   "barcode": "8690504117858",
   "name": "Çubuk Kraker Büyük Boy",
@@ -12513,7 +12500,7 @@
  {
   "id": "pkg_8690504119586",
   "barcode": "8690504119586",
-  "name": "laviva",
+  "name": "Laviva",
   "brand": "Ülker",
   "caloriesPer100g": 551,
   "proteinPer100g": 8.4,
@@ -12691,7 +12678,7 @@
  {
   "id": "pkg_8690504136521",
   "barcode": "8690504136521",
-  "name": "ülker beyaz çikolata",
+  "name": "Ülker Beyaz Çikolata",
   "brand": "Ülker",
   "caloriesPer100g": 520,
   "proteinPer100g": 6.6,
@@ -12956,7 +12943,7 @@
  {
   "id": "pkg_8690504186618",
   "barcode": "8690504186618",
-  "name": "halley",
+  "name": "Halley",
   "brand": "Ülker",
   "caloriesPer100g": 444,
   "proteinPer100g": 6.7,
@@ -13495,7 +13482,7 @@
  {
   "id": "pkg_8690526005225",
   "barcode": "8690526005225",
-  "name": "eti hosbes fındık",
+  "name": "Eti Hosbes Fındık",
   "brand": "Eti",
   "caloriesPer100g": 496,
   "proteinPer100g": 7.8,
@@ -14392,7 +14379,7 @@
  {
   "id": "pkg_8690526066257",
   "barcode": "8690526066257",
-  "name": "popkek",
+  "name": "Popkek",
   "brand": "Eti",
   "caloriesPer100g": 430,
   "proteinPer100g": 3.9,
@@ -14570,7 +14557,7 @@
  {
   "id": "pkg_8690526073774",
   "barcode": "8690526073774",
-  "name": "popkek portakal",
+  "name": "Popkek Portakal",
   "brand": "Eti",
   "caloriesPer100g": 435,
   "proteinPer100g": 4.2,
@@ -16988,18 +16975,6 @@
   "fatPer100g": 1.5
  },
  {
-  "id": "pkg_8690565019108",
-  "barcode": "8690565019108",
-  "name": "pinar",
-  "brand": "Pınar",
-  "caloriesPer100g": 745,
-  "proteinPer100g": 0.8,
-  "carbsPer100g": 1,
-  "fatPer100g": 82,
-  "sugarPer100g": 1,
-  "saltPer100g": 0
- },
- {
   "id": "pkg_8690565019412",
   "barcode": "8690565019412",
   "name": "Protein Çilek",
@@ -17037,7 +17012,7 @@
  {
   "id": "pkg_8690565022108",
   "barcode": "8690565022108",
-  "name": "pınar kido süt",
+  "name": "Pınar Kido Süt",
   "brand": "Pinar",
   "caloriesPer100g": 59,
   "proteinPer100g": 2.8,
@@ -17405,7 +17380,7 @@
  {
   "id": "pkg_8690574114726",
   "barcode": "8690574114726",
-  "name": "lipton",
+  "name": "Lipton",
   "brand": "Lipton",
   "caloriesPer100g": 63,
   "proteinPer100g": 0,
@@ -17742,7 +17717,7 @@
  {
   "id": "pkg_8690575871819",
   "barcode": "8690575871819",
-  "name": "tamek şeftali 1litre",
+  "name": "Tamek Şeftali 1litre",
   "brand": "Tamek",
   "caloriesPer100g": 45,
   "proteinPer100g": 0,
@@ -17814,7 +17789,7 @@
  {
   "id": "pkg_8690576029202",
   "barcode": "8690576029202",
-  "name": "ankara eriste",
+  "name": "Ankara Eriste",
   "brand": "Ankara",
   "caloriesPer100g": 357,
   "proteinPer100g": 10.7,
@@ -18879,7 +18854,7 @@
  {
   "id": "pkg_8690624106244",
   "barcode": "8690624106244",
-  "name": "lays parmesan",
+  "name": "Lays Parmesan",
   "brand": "Lay's",
   "caloriesPer100g": 509,
   "proteinPer100g": 5.9,
@@ -18934,7 +18909,7 @@
  {
   "id": "pkg_8690624201208",
   "barcode": "8690624201208",
-  "name": "doritos haşhaşlı",
+  "name": "Doritos Haşhaşlı",
   "brand": "Doritos",
   "caloriesPer100g": 523,
   "proteinPer100g": 7,
@@ -20091,7 +20066,7 @@
  {
   "id": "pkg_8690632762913",
   "barcode": "8690632762913",
-  "name": "şekersiz cafe latte",
+  "name": "Şekersiz Cafe Latte",
   "brand": "Nescafé",
   "caloriesPer100g": 26,
   "proteinPer100g": 1.3,
@@ -20126,7 +20101,7 @@
  {
   "id": "pkg_8690632764900",
   "barcode": "8690632764900",
-  "name": "damak ezme",
+  "name": "Damak Ezme",
   "brand": "Nestlé",
   "caloriesPer100g": 556,
   "proteinPer100g": 10.4,
@@ -20179,7 +20154,7 @@
  {
   "id": "pkg_8690632994055",
   "barcode": "8690632994055",
-  "name": "damak pistache imp",
+  "name": "Damak Pistache İmp",
   "brand": "Nestlé",
   "caloriesPer100g": 563,
   "proteinPer100g": 8.6,
@@ -20224,7 +20199,7 @@
  {
   "id": "pkg_8690632994802",
   "barcode": "8690632994802",
-  "name": "nestle damak baklava",
+  "name": "Nestle Damak Baklava",
   "brand": "Nestlé",
   "caloriesPer100g": 548,
   "proteinPer100g": 9.2,
@@ -20569,7 +20544,7 @@
  {
   "id": "pkg_8690637018565",
   "barcode": "8690637018565",
-  "name": "iskembe corbasi",
+  "name": "İskembe Corbasi",
   "brand": "Knorr",
   "caloriesPer100g": 349,
   "proteinPer100g": 8.8,
@@ -20697,7 +20672,7 @@
  {
   "id": "pkg_8690637719783",
   "barcode": "8690637719783",
-  "name": "magnum duuble karadut ve böğürtlen",
+  "name": "Magnum Duuble Karadut ve Böğürtlen",
   "brand": "Algida",
   "caloriesPer100g": 343,
   "proteinPer100g": 3.2,
@@ -20944,7 +20919,7 @@
  {
   "id": "pkg_8690637860379",
   "barcode": "8690637860379",
-  "name": "magnum beyaz",
+  "name": "Magnum Beyaz",
   "brand": "Magnum",
   "caloriesPer100g": 348,
   "proteinPer100g": 4.1,
@@ -22028,7 +22003,7 @@
  {
   "id": "pkg_8690766085742",
   "barcode": "8690766085742",
-  "name": "9 kat",
+  "name": "9 Kat",
   "caloriesPer100g": 461,
   "proteinPer100g": 4.8,
   "carbsPer100g": 63,
@@ -22185,18 +22160,6 @@
   "saltPer100g": 0.1
  },
  {
-  "id": "pkg_8690767670060",
-  "barcode": "8690767670060",
-  "name": "sütas",
-  "caloriesPer100g": 291,
-  "proteinPer100g": 2.1,
-  "carbsPer100g": 3.1,
-  "fatPer100g": 30,
-  "fiberPer100g": 0,
-  "sugarPer100g": 3.1,
-  "saltPer100g": 0
- },
- {
   "id": "pkg_8690767670190",
   "barcode": "8690767670190",
   "name": "Sütaş üçgen peynir 120",
@@ -22251,7 +22214,7 @@
   "id": "pkg_8690767671029",
   "barcode": "8690767671029",
   "name": "Kaşar Peyniri",
-  "brand": "suş",
+  "brand": "Suş",
   "caloriesPer100g": 325,
   "proteinPer100g": 24,
   "carbsPer100g": 1,
@@ -22798,7 +22761,7 @@
   "id": "pkg_8690787181416",
   "barcode": "8690787181416",
   "name": "Cig Karisik Natural",
-  "brand": "tadim",
+  "brand": "Tadim",
   "caloriesPer100g": 525,
   "proteinPer100g": 16,
   "carbsPer100g": 33,
@@ -22822,7 +22785,7 @@
  {
   "id": "pkg_8690787191040",
   "barcode": "8690787191040",
-  "name": "tadim",
+  "name": "Tadim",
   "brand": "Tadim",
   "caloriesPer100g": 603,
   "proteinPer100g": 22.7,
@@ -22845,7 +22808,7 @@
  {
   "id": "pkg_8690787231029",
   "barcode": "8690787231029",
-  "name": "fıstıxx ranch",
+  "name": "Fıstıxx Ranch",
   "brand": "Tadım",
   "caloriesPer100g": 571,
   "proteinPer100g": 13,
@@ -23128,7 +23091,7 @@
   "id": "pkg_8690787581063",
   "barcode": "8690787581063",
   "name": "Tadımca Fındıklı Tarçınlı Hurmalı Bar 40 G",
-  "brand": "tadimca",
+  "brand": "Tadimca",
   "caloriesPer100g": 458,
   "proteinPer100g": 9.3,
   "carbsPer100g": 47,
@@ -23371,8 +23334,8 @@
  {
   "id": "pkg_8690840175437",
   "barcode": "8690840175437",
-  "name": "eglenceli icecekler",
-  "brand": "yupo",
+  "name": "Eglenceli İcecekler",
+  "brand": "Yupo",
   "caloriesPer100g": 323,
   "proteinPer100g": 3.2,
   "carbsPer100g": 77,
@@ -23394,7 +23357,7 @@
  {
   "id": "pkg_8690840176335",
   "barcode": "8690840176335",
-  "name": "yupo",
+  "name": "Yupo",
   "brand": "Ülker",
   "caloriesPer100g": 320,
   "proteinPer100g": 3.1,
@@ -24739,7 +24702,7 @@
  {
   "id": "pkg_8691216108561",
   "barcode": "8691216108561",
-  "name": "haribo",
+  "name": "Haribo",
   "brand": "Haribo",
   "caloriesPer100g": 376,
   "proteinPer100g": 2.3,
@@ -25520,7 +25483,7 @@
   "id": "pkg_8691395714003",
   "barcode": "8691395714003",
   "name": "Kınık karpuz çilek soda 200",
-  "brand": "kınık",
+  "brand": "Kınık",
   "caloriesPer100g": 6,
   "proteinPer100g": 0,
   "carbsPer100g": 0,
@@ -27463,7 +27426,7 @@
  {
   "id": "pkg_8692971434667",
   "barcode": "8692971434667",
-  "name": "eritme peyniri",
+  "name": "Eritme Peyniri",
   "brand": "President",
   "caloriesPer100g": 189,
   "proteinPer100g": 13.5,
@@ -27682,7 +27645,7 @@
  {
   "id": "pkg_86931663",
   "barcode": "86931663",
-  "name": "uludag limonata",
+  "name": "Uludag Limonata",
   "caloriesPer100g": 53,
   "proteinPer100g": 0,
   "carbsPer100g": 13,
@@ -28491,7 +28454,7 @@
  {
   "id": "pkg_86935241",
   "barcode": "86935241",
-  "name": "tavuk",
+  "name": "Tavuk",
   "brand": "Baktat",
   "caloriesPer100g": 34,
   "proteinPer100g": 2.4,
@@ -29505,7 +29468,7 @@
  {
   "id": "pkg_8695077020512",
   "barcode": "8695077020512",
-  "name": "suzme peynir",
+  "name": "Suzme Peynir",
   "brand": "Dost",
   "caloriesPer100g": 224,
   "proteinPer100g": 12,
@@ -33274,17 +33237,6 @@
   "saltPer100g": 0
  },
  {
-  "id": "pkg_8697520471919",
-  "barcode": "8697520471919",
-  "name": "Içim",
-  "caloriesPer100g": 56,
-  "proteinPer100g": 0,
-  "carbsPer100g": 13.6,
-  "fatPer100g": 0,
-  "sugarPer100g": 11.8,
-  "saltPer100g": 0
- },
- {
   "id": "pkg_8697581700690",
   "barcode": "8697581700690",
   "name": "Gezen Tavuk Yumurtası",
@@ -33555,7 +33507,7 @@
  {
   "id": "pkg_8698313585431",
   "barcode": "8698313585431",
-  "name": "roko çikolatalı dondurma",
+  "name": "Roko Çikolatalı Dondurma",
   "brand": "Golf",
   "caloriesPer100g": 317,
   "proteinPer100g": 4.5,
@@ -34899,7 +34851,7 @@
   "id": "pkg_8699120445710",
   "barcode": "8699120445710",
   "name": "Akhtar",
-  "brand": "khan",
+  "brand": "Khan",
   "caloriesPer100g": 23,
   "proteinPer100g": 0,
   "carbsPer100g": 5,
@@ -35027,7 +34979,7 @@
  {
   "id": "pkg_8699141059125",
   "barcode": "8699141059125",
-  "name": "lupo",
+  "name": "Lupo",
   "brand": "Şölen",
   "caloriesPer100g": 445,
   "proteinPer100g": 4.7,
@@ -35547,7 +35499,7 @@
  {
   "id": "pkg_87108026",
   "barcode": "87108026",
-  "name": "mentos fruits",
+  "name": "Mentos Fruits",
   "brand": "Mentos",
   "caloriesPer100g": 394,
   "proteinPer100g": 0,
@@ -35846,7 +35798,7 @@
  {
   "id": "pkg_90454769",
   "barcode": "90454769",
-  "name": "red bull",
+  "name": "Red Bull",
   "brand": "Red Bull",
   "caloriesPer100g": 45,
   "proteinPer100g": 0,
@@ -35858,7 +35810,7 @@
  {
   "id": "pkg_90456107",
   "barcode": "90456107",
-  "name": "red bull sugar free",
+  "name": "Red Bull Sugar Free",
   "brand": "Red Bull",
   "caloriesPer100g": 3,
   "proteinPer100g": 0,
@@ -35871,7 +35823,7 @@
  {
   "id": "pkg_90456114",
   "barcode": "90456114",
-  "name": "yaban mersinli redbill",
+  "name": "Yaban Mersinli Redbill",
   "brand": "Red Bull",
   "caloriesPer100g": 46,
   "proteinPer100g": 0,
