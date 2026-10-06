@@ -176,17 +176,6 @@
   "saltPer100g": 0.1
  },
  {
-  "id": "pkg_01638677",
-  "barcode": "01638677",
-  "name": "Limonlu kızılay",
-  "caloriesPer100g": 4,
-  "proteinPer100g": 0,
-  "carbsPer100g": 0,
-  "fatPer100g": 0,
-  "sugarPer100g": 0,
-  "saltPer100g": 5
- },
- {
   "id": "pkg_0195479000108",
   "barcode": "0195479000108",
   "name": "Hazelnut Bar Covered With Dark Chocolate",
@@ -3728,18 +3717,6 @@
   "fatPer100g": 0,
   "sugarPer100g": 11,
   "saltPer100g": 0
- },
- {
-  "id": "pkg_5449000310507",
-  "barcode": "5449000310507",
-  "name": "Fanta whatthefanta",
-  "brand": "Fanta",
-  "caloriesPer100g": 7,
-  "proteinPer100g": 0,
-  "carbsPer100g": 0,
-  "fatPer100g": 0,
-  "fiberPer100g": 0,
-  "sugarPer100g": 0
  },
  {
   "id": "pkg_5449000316639",
@@ -10497,18 +10474,6 @@
   "fatPer100g": 1.5,
   "fiberPer100g": 2.9,
   "sugarPer100g": 2.2
- },
- {
-  "id": "pkg_8682214708044",
-  "barcode": "8682214708044",
-  "name": "Mis Yogurt",
-  "caloriesPer100g": 5,
-  "proteinPer100g": 0.3,
-  "carbsPer100g": 0.4,
-  "fatPer100g": 0.3,
-  "fiberPer100g": 0,
-  "sugarPer100g": 0.3,
-  "saltPer100g": 0
  },
  {
   "id": "pkg_8682214708082",
@@ -17446,18 +17411,6 @@
   "sugarPer100g": 1.5
  },
  {
-  "id": "pkg_8684944460971",
-  "barcode": "8684944460971",
-  "name": "Opet fasty Churchill",
-  "brand": "Fasty",
-  "caloriesPer100g": 4,
-  "proteinPer100g": 0,
-  "carbsPer100g": 0.5,
-  "fatPer100g": 0,
-  "sugarPer100g": 0.5,
-  "saltPer100g": 0
- },
- {
   "id": "pkg_8684992000389",
   "barcode": "8684992000389",
   "name": "Orman Meyveli Kefir",
@@ -18743,16 +18696,6 @@
   "fatPer100g": 3.3,
   "sugarPer100g": 4.5,
   "saltPer100g": 0
- },
- {
-  "id": "pkg_8690327892239",
-  "barcode": "8690327892239",
-  "name": "Vitamin Wasser",
-  "caloriesPer100g": 1,
-  "proteinPer100g": 0,
-  "carbsPer100g": 0.2,
-  "fatPer100g": 0,
-  "sugarPer100g": 0.1
  },
  {
   "id": "pkg_8690335050362",
@@ -20769,18 +20712,6 @@
   "fatPer100g": 0.5
  },
  {
-  "id": "pkg_8690504098348",
-  "barcode": "8690504098348",
-  "name": "Café Crown",
-  "brand": "Ülker",
-  "caloriesPer100g": 1,
-  "proteinPer100g": 0.2,
-  "carbsPer100g": 0.3,
-  "fatPer100g": 0,
-  "sugarPer100g": 0,
-  "saltPer100g": 0
- },
- {
   "id": "pkg_8690504103349",
   "barcode": "8690504103349",
   "name": "Dankek Tart kek",
@@ -22301,17 +22232,6 @@
   "fatPer100g": 1.2,
   "fiberPer100g": 0.1,
   "sugarPer100g": 0.3,
-  "saltPer100g": 0
- },
- {
-  "id": "pkg_8690525060089",
-  "barcode": "8690525060089",
-  "name": "Zindelik pinarim",
-  "caloriesPer100g": 7,
-  "proteinPer100g": 0,
-  "carbsPer100g": 1.5,
-  "fatPer100g": 0,
-  "sugarPer100g": 1.5,
   "saltPer100g": 0
  },
  {
@@ -27814,17 +27734,6 @@
   "saltPer100g": 0.03
  },
  {
-  "id": "pkg_8690574115075",
-  "barcode": "8690574115075",
-  "name": "Yedigun",
-  "caloriesPer100g": 1,
-  "proteinPer100g": 0,
-  "carbsPer100g": 0.1,
-  "fatPer100g": 0,
-  "fiberPer100g": 0,
-  "sugarPer100g": 0
- },
- {
   "id": "pkg_8690574115082",
   "barcode": "8690574115082",
   "name": "Yedigün Portakal Aromalı Gazlı İçecek 2,5 L",
@@ -33035,17 +32944,6 @@
   "fatPer100g": 3.8
  },
  {
-  "id": "pkg_8690690174192",
-  "barcode": "8690690174192",
-  "name": "Meltem",
-  "caloriesPer100g": 4,
-  "proteinPer100g": 0.6,
-  "carbsPer100g": 0.5,
-  "fatPer100g": 0,
-  "sugarPer100g": 0.5,
-  "saltPer100g": 0
- },
- {
   "id": "pkg_8690690250506",
   "barcode": "8690690250506",
   "name": "Tropical Vişneli Içecek",
@@ -33758,18 +33656,6 @@
   "proteinPer100g": 0,
   "carbsPer100g": 0.3,
   "fatPer100g": 0
- },
- {
-  "id": "pkg_8690719100362",
-  "barcode": "8690719100362",
-  "name": "Royal Breakfast",
-  "caloriesPer100g": 1,
-  "proteinPer100g": 0,
-  "carbsPer100g": 0.5,
-  "fatPer100g": 0,
-  "fiberPer100g": 0,
-  "sugarPer100g": 0,
-  "saltPer100g": 0
  },
  {
   "id": "pkg_8690719102717",
@@ -39135,16 +39021,6 @@
   "saltPer100g": 0
  },
  {
-  "id": "pkg_8691395700013",
-  "barcode": "8691395700013",
-  "name": "Eau gazeuse au citron",
-  "caloriesPer100g": 2,
-  "proteinPer100g": 0,
-  "carbsPer100g": 0,
-  "fatPer100g": 0,
-  "sugarPer100g": 0
- },
- {
   "id": "pkg_8691395714003",
   "barcode": "8691395714003",
   "name": "Kınık karpuz çilek soda 200",
@@ -43169,30 +43045,6 @@
   "saltPer100g": 0.8
  },
  {
-  "id": "pkg_8693354005689",
-  "barcode": "8693354005689",
-  "name": "Doganay",
-  "caloriesPer100g": 3,
-  "proteinPer100g": 0.2,
-  "carbsPer100g": 0.2,
-  "fatPer100g": 0.1,
-  "fiberPer100g": 0.1,
-  "sugarPer100g": 0,
-  "saltPer100g": 1.7
- },
- {
-  "id": "pkg_8693354005696",
-  "barcode": "8693354005696",
-  "name": "Doğanay",
-  "caloriesPer100g": 3,
-  "proteinPer100g": 0.5,
-  "carbsPer100g": 0.5,
-  "fatPer100g": 0.1,
-  "fiberPer100g": 0.5,
-  "sugarPer100g": 0.5,
-  "saltPer100g": 1.7
- },
- {
   "id": "pkg_8693374011011",
   "barcode": "8693374011011",
   "name": "Gönen Baldo Pirinç",
@@ -45095,17 +44947,6 @@
   "proteinPer100g": 0,
   "carbsPer100g": 11.2,
   "fatPer100g": 0
- },
- {
-  "id": "pkg_8694748691549",
-  "barcode": "8694748691549",
-  "name": "Jalapeno",
-  "caloriesPer100g": 5,
-  "proteinPer100g": 0,
-  "carbsPer100g": 5.3,
-  "fatPer100g": 0,
-  "sugarPer100g": 0,
-  "saltPer100g": 5
  },
  {
   "id": "pkg_86947497",
@@ -51697,17 +51538,6 @@
   "saltPer100g": 0.01
  },
  {
-  "id": "pkg_8696801000541",
-  "barcode": "8696801000541",
-  "name": "Chou mariné",
-  "caloriesPer100g": 5,
-  "proteinPer100g": 0.3,
-  "carbsPer100g": 2.5,
-  "fatPer100g": 0.1,
-  "sugarPer100g": 0.5,
-  "saltPer100g": 8.38
- },
- {
   "id": "pkg_8696801006659",
   "barcode": "8696801006659",
   "name": "Jalapeno",
@@ -54903,18 +54733,6 @@
   "proteinPer100g": 0,
   "carbsPer100g": 0,
   "fatPer100g": 51
- },
- {
-  "id": "pkg_8698613150087",
-  "barcode": "8698613150087",
-  "name": "Lukum",
-  "brand": "Tralleis",
-  "caloriesPer100g": 2,
-  "proteinPer100g": 0,
-  "carbsPer100g": 0,
-  "fatPer100g": 0,
-  "sugarPer100g": 0,
-  "saltPer100g": 0
  },
  {
   "id": "pkg_8698613381696",
@@ -59549,19 +59367,6 @@
   "fatPer100g": 0,
   "sugarPer100g": 11,
   "saltPer100g": 0.89
- },
- {
-  "id": "pkg_90456107",
-  "barcode": "90456107",
-  "name": "Red Bull Sugar Free",
-  "brand": "Red Bull",
-  "caloriesPer100g": 3,
-  "proteinPer100g": 0,
-  "carbsPer100g": 0,
-  "fatPer100g": 0,
-  "fiberPer100g": 0,
-  "sugarPer100g": 0,
-  "saltPer100g": 0.21
  },
  {
   "id": "pkg_90456114",
