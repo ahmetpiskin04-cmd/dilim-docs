@@ -7,7 +7,7 @@ Bu depo, Dilim kalori takip uygulamasının gizlilik politikasını ve uygulamad
 
 ## Paketli ürün veritabanı (ODbL 1.0)
 
-`veri/dilim-paketli-urunler.json` dosyasındaki 5324 ürün kaydı [Open Food Facts](https://world.openfoodfacts.org) veritabanından
+`veri/dilim-paketli-urunler.json` dosyasındaki 5316 ürün kaydı [Open Food Facts](https://world.openfoodfacts.org) veritabanından
 (Open Food Facts katkıcıları) alınıp uyarlanmıştır: barkod, ürün adı, marka ve 100 g başına besin değerleri. Ad ve marka yazımları
 düzeltildi, tutarsız ya da eksik besin değerli kayıtlar, alkollü ürünler ve takviyeler çıkarıldı, bazı kayıtlara lif, şeker ve tuz
 değerleri eklendi. Değerler olduğu gibi etiketten gelir, Dilim tarafından hesaplanıp tahmin edilmedi.

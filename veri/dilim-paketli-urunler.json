@@ -3755,19 +3755,6 @@
   "saltPer100g": 0
  },
  {
-  "id": "pkg_54491250",
-  "barcode": "54491250",
-  "name": "Coca-Cola Gazlı İçecek Kola Cam 200 ml",
-  "brand": "Coca Cola",
-  "caloriesPer100g": 42,
-  "proteinPer100g": 0,
-  "carbsPer100g": 20.6,
-  "fatPer100g": 0,
-  "fiberPer100g": 0,
-  "sugarPer100g": 10.6,
-  "saltPer100g": 0
- },
- {
   "id": "pkg_5696959504949",
   "barcode": "5696959504949",
   "name": "Denge Tam Buğdaylı ve Çiya Tohumlu Ekmek",
@@ -27541,18 +27528,6 @@
   "sugarPer100g": 5
  },
  {
-  "id": "pkg_8690565151570",
-  "barcode": "8690565151570",
-  "name": "Pınar süt 500 laktozsuz light",
-  "brand": "Pinar",
-  "caloriesPer100g": 100,
-  "proteinPer100g": 3,
-  "carbsPer100g": 4.7,
-  "fatPer100g": 1.5,
-  "sugarPer100g": 4.7,
-  "saltPer100g": 0
- },
- {
   "id": "pkg_8690565812129",
   "barcode": "8690565812129",
   "name": "Çikolatalı Sos",
@@ -27564,18 +27539,6 @@
   "fiberPer100g": 1,
   "sugarPer100g": 59,
   "saltPer100g": 0.4
- },
- {
-  "id": "pkg_8690574000814",
-  "barcode": "8690574000814",
-  "name": "Lipton Ice Tea Limon 1 L",
-  "brand": "Lipton",
-  "caloriesPer100g": 19,
-  "proteinPer100g": 0,
-  "carbsPer100g": 12,
-  "fatPer100g": 0,
-  "sugarPer100g": 11,
-  "saltPer100g": 0.13
  },
  {
   "id": "pkg_8690574000821",
@@ -40673,18 +40636,6 @@
   "saltPer100g": 0.1
  },
  {
-  "id": "pkg_8691958005968",
-  "barcode": "8691958005968",
-  "name": "Güney lor peyniri",
-  "brand": "Güney",
-  "caloriesPer100g": 133,
-  "proteinPer100g": 11,
-  "carbsPer100g": 1.2,
-  "fatPer100g": 5,
-  "sugarPer100g": 0,
-  "saltPer100g": 1
- },
- {
   "id": "pkg_8691958008099",
   "barcode": "8691958008099",
   "name": "Tuzsuz Tereyağı",
@@ -44283,17 +44234,6 @@
   "fatPer100g": 3
  },
  {
-  "id": "pkg_8693440010849",
-  "barcode": "8693440010849",
-  "name": "Strigo soguk kahve",
-  "caloriesPer100g": 80,
-  "proteinPer100g": 1.4,
-  "carbsPer100g": 7.5,
-  "fatPer100g": 0.5,
-  "sugarPer100g": 7,
-  "saltPer100g": 0.03
- },
- {
   "id": "pkg_8693454000812",
   "barcode": "8693454000812",
   "name": "Yeşil İç Mercimek",
@@ -44326,18 +44266,6 @@
   "fatPer100g": 1.8,
   "sugarPer100g": 2.2,
   "saltPer100g": 0.8
- },
- {
-  "id": "pkg_8693570072014",
-  "barcode": "8693570072014",
-  "name": "Doğal kaynak suyu",
-  "brand": "Işık Su",
-  "caloriesPer100g": 0,
-  "proteinPer100g": 0,
-  "carbsPer100g": 0,
-  "fatPer100g": 3.4,
-  "fiberPer100g": 0,
-  "sugarPer100g": 0
  },
  {
   "id": "pkg_8693593150010",
@@ -53578,19 +53506,6 @@
   "saltPer100g": 0.1
  },
  {
-  "id": "pkg_8697448890045",
-  "barcode": "8697448890045",
-  "name": "Niğde Gazozu Gazoz",
-  "brand": "Niğde Gazozu",
-  "caloriesPer100g": 64,
-  "proteinPer100g": 0,
-  "carbsPer100g": 3.8,
-  "fatPer100g": 0,
-  "fiberPer100g": 0,
-  "sugarPer100g": 3.8,
-  "saltPer100g": 0.01
- },
- {
   "id": "pkg_8697448890076",
   "barcode": "8697448890076",
   "name": "Niğde Gazoz Frambuaz Aromalı 250 ml",
@@ -59609,17 +59524,6 @@
   "fatPer100g": 1.6,
   "sugarPer100g": 95,
   "saltPer100g": 0.8
- },
- {
-  "id": "pkg_90448317",
-  "barcode": "90448317",
-  "name": "Red bull",
-  "brand": "Red Bull",
-  "caloriesPer100g": 45,
-  "proteinPer100g": 0,
-  "carbsPer100g": 0,
-  "fatPer100g": 11,
-  "sugarPer100g": 0
  },
  {
   "id": "pkg_90454752",
